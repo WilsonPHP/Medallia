@@ -1,0 +1,19 @@
+   /*
+   Theme Name: Medallia
+   Theme URI: https://www.medallia.com/
+   Author: Wilson fernández
+   Author URI: https://www.medallia.com/
+   Description: Medallia website theme
+   Version: 1.0
+   License: GNU General Public License v2 or later
+   License URI: http://www.gnu.org/licenses/gpl-2.0.html
+   Tags: básico, blog, personal
+   Text Domain: medallia
+   */
+
+   .ticker-item-back-qualities__wrap > div > p {
+      font-size: 0.8em !important;
+      line-height: 1;
+      word-break: break-all;
+      white-space: normal;
+   }
